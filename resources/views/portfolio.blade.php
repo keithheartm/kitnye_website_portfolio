@@ -1183,7 +1183,7 @@ document.addEventListener('DOMContentLoaded', function () {
 
             <div class="contact-item">
                 <span class="detail-label">EMAIL</span>
-                <p>Add your preferred email address here.</p>
+                <p>keithheartm@gmail.com</p>
             </div>
 
             <div class="contact-item">
@@ -1193,7 +1193,7 @@ document.addEventListener('DOMContentLoaded', function () {
 
             <div class="contact-item">
                 <span class="detail-label">SOCIAL</span>
-                <p>Add your preferred social media link here.</p>
+                <p>Instagram: kitthrtx</p>
             </div>
 
         </div>
